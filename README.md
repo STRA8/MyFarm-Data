@@ -1,2 +1,2 @@
 # MyFarm-Data
-My Farm is a game on Roblox. 
+Used for a game on Roblox. Because I thought this would be cool to have.
